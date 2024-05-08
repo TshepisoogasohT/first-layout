@@ -1,0 +1,35 @@
+
+.body {
+    /* you can use a more complete font-family from VSCode as well */
+    font-family: arial;
+}
+
+.header {
+    background-color: lightgreen;
+    padding: 1em;
+}
+
+.main {
+    background-color : lightseagreen;
+}
+
+.footer {
+    background-color: lightgreen;
+    padding: 1em;
+}
+.side-bar {
+    float: left;
+    width: 25%;
+}
+.clearfix {
+    overflow: auto;
+    zoom: 1;
+}
+.side-bar {
+    
+    padding: 1em;
+}
+
+.content {
+    padding: 1em;
+}
